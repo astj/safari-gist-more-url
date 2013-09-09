@@ -2,6 +2,7 @@
 gist-more-url-for-safari - A Safari port of [google-chrome-gist-more-util](https://github.com/moznion/google-chrome-gist-more-url), which shows extend url to clone (by 'ssh' and 'git') on Gist.
 
 # HOW TO USE (Binary)
+**Currently not available**
 Download `gist-more-url.safariextz` from release page and open it.
 
 # HOW TO INSTALL
